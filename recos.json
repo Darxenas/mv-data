@@ -35,7 +35,15 @@
 				{
 					"image": "https://cdn.rawgit.com/Darxenas/mv-data/eca7eead575db4ee73dbc60af8f67265d67b181b/images/kingdom-hearts-ii-01b.jpg",
 					"card-title": "Kingdom Hearts II",
-					"card-description": "Sora, Donald et Dingo sont restés inanimés pendant un an afin de retrouver, dans Chain of Memories, leurs souvenirs perdus. Pendant ce temps Roxas, le Simili de Sora, est pris au piège dans une simulation virtuelle",
+					"card-description": "Sora, Donald et Dingo sont restés inanimés pendant un an afin de retrouver, dans Chain of Memories, leurs souvenirs perdus. Pendant ce temps Roxas, le Simili de Sora, est pris au piège dans une simulation virtuelle...",
+					"tag": [
+						"Action-RPG"
+					]
+				},
+				{
+					"image": "https://cdn.rawgit.com/Darxenas/mv-data/49399c60e7d646b9ab779a6a77fed20df972ae0e/images/Nier-Automata-01.jpg",
+					"card-title": "NieR: Automata",
+					"card-description": "2B, 9S et A2 se battent contre des machines dans un monde post-apocalyptique. Envoyés par les humains, leur mission est de sauver l'humanité des machines...",
 					"tag": [
 						"Action-RPG"
 					]
