@@ -2,15 +2,7 @@
 	"category": [
 		{
 			"cat-title": "Séries",
-			"card": [
-				{
-					"image": "img/punisher.jpg",
-					"card-title": "Punisher",
-					"tag": [
-						"Horreur"
-					]
-				}
-			]
+			"card": []
 		}
 	]
 }
