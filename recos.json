@@ -1,0 +1,17 @@
+{
+	"category": [
+		{
+			"cat-title": "Séries",
+			"card": [
+				{
+					"image": "img/punisher.jpg",
+					"card-title": "The Walking Dead",
+					"card-description": "Après une épidémie post-apocalyptique ayant transformé la quasi-totalité de la population américaine...",
+					"tag": [
+						"Horreur"
+					]
+				}
+			]
+		}
+	]
+}
