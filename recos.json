@@ -18,6 +18,14 @@
 					"tag": [
 						"Fantaisie"
 					]
+				},
+				{
+					"image": "https://cdn.rawgit.com/Darxenas/mv-data/49665ff5cd9e28c3827de4b225fc7b1d95e59b08/images/TBBT.jpg",
+					"card-title": "The Big Bang Theory",
+					"card-description": "Leonard Hofstadter et Sheldon Cooper vivent en colocation à Pasadena, ville de l'agglomération de Los Angeles. Ce sont tous deux des physiciens surdoués...",
+					"tag": [
+						"Sitcom"
+					]
 				}
 			]
 		}
