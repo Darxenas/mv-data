@@ -33,7 +33,7 @@
 			"cat-title": "Jeux vidéo",
 			"card": [
 				{
-					"image": "https://cdn.rawgit.com/Darxenas/mv-data/eca7eead575db4ee73dbc60af8f67265d67b181b/images/kingdom-hearts-ii-01b.jpg",
+					"image": "https://cdn.rawgit.com/Darxenas/mv-data/12d2f19e21c8b043b9f1b1f78fdb79e046db8062/images/h6v57xjriwwcpbqmdkxo.jpg",
 					"card-title": "Kingdom Hearts II",
 					"card-description": "Sora, Donald et Dingo sont restés inanimés pendant un an afin de retrouver, dans Chain of Memories, leurs souvenirs perdus. Pendant ce temps Roxas, le Simili de Sora, est pris au piège dans une simulation virtuelle...",
 					"tag": [
@@ -55,6 +55,9 @@
 					"tag": [
 						"Action/Plate-formes"
 					]
+				},
+				{
+					"tag": []
 				}
 			]
 		}
