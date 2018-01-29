@@ -2,7 +2,16 @@
 	"category": [
 		{
 			"cat-title": "Séries",
-			"card": []
+			"card": [
+				{
+					"image": "https://cdn.rawgit.com/Darxenas/mv-data/3346f24a62c2e1f8dd396d42f47f161f9e749d2f/images/punisher.jpg",
+					"card-title": "Punisher",
+					"card-description": "Hanté par l'assassinat de sa famille, l'ancien Marines Frank Castle devient un justicier connu dans le milieu criminel...",
+					"tag": [
+						"Action"
+					]
+				}
+			]
 		}
 	]
 }
